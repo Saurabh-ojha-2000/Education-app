@@ -1,10 +1,9 @@
 # Education-app
 Mobile app for interactive learning and educational content using React Native.
 
-![s5](https://github.com/user-attachments/assets/2784210c-6e2d-4b3d-8786-d7ede4e34980)
-![s6](https://github.com/user-attachments/assets/fa219914-4b50-441c-918e-6945cc653cb7)
-![s3](https://github.com/user-attachments/assets/82d8f0c0-d896-49f4-b7e5-5cae9df9785a)
-![s7](https://github.com/user-attachments/assets/8fc20fd6-9b40-4893-818b-85e24ac0e480)
-![s4](https://github.com/user-attachments/assets/c8de4523-9024-402b-a752-4e5261ef8449)
-![s2](https://github.com/user-attachments/assets/ab9d84f5-b63b-4509-a63c-dcf71722a113)
-![s1](https://github.com/user-attachments/assets/16ccafbb-109c-49f6-8d10-8d159223e09f)
+![Educational-CourseContent](https://github.com/user-attachments/assets/b2b913c7-f159-4f46-b4ae-83f8d82f4ba4)
+![Educational-Course-Content-Finish](https://github.com/user-attachments/assets/94958b5d-d434-47dd-ab0c-0e248990737d)
+![Educational-CourseDetails](https://github.com/user-attachments/assets/709caab0-cdb6-442f-86bb-80f3873007ce)
+![Educational-Home](https://github.com/user-attachments/assets/33cd0a93-1965-4898-93d6-5f90dfc8f23e)
+![Educational-Video-Course-Details](https://github.com/user-attachments/assets/be361e61-a6e9-40d2-90fa-a280fff6967b)
+
